@@ -1,0 +1,10 @@
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\bin\Debug\Dosya Şifreleme ve Çözme.exe.config
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\bin\Debug\Dosya Şifreleme ve Çözme.exe
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\bin\Debug\Dosya Şifreleme ve Çözme.pdb
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\obj\Debug\Dosya_Şifreleme_ve_Çözme.csproj.AssemblyReference.cache
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\obj\Debug\Dosya_Şifreleme_ve_Çözme.Form1.resources
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\obj\Debug\Dosya_Şifreleme_ve_Çözme.Properties.Resources.resources
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\obj\Debug\Dosya_Şifreleme_ve_Çözme.csproj.GenerateResource.cache
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\obj\Debug\Dosya_Şifreleme_ve_Çözme.csproj.CoreCompileInputs.cache
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\obj\Debug\Dosya Şifreleme ve Çözme.exe
+C:\Users\Gülsu\Desktop\DosyaŞÇProjesi\DosyaŞÇ\Dosya Şifreleme ve Çözme\Dosya Şifreleme ve Çözme\obj\Debug\Dosya Şifreleme ve Çözme.pdb
