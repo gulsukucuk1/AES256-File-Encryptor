@@ -57,7 +57,7 @@ Anahtar Boyutu: 256 bit
 Yineleme Sayısı: 2000 (PBKDF2)
 
 ⚙️ Installation & Usage (Kurulum ve Kullanım)
-Clone the repository: git clone https://github.com/gulsukucuk1/File-Encryptor.git
+Clone the repository: git clone https://github.com/gulsukucuk1/AES256-File-Encryptor.git
 
 Open the .sln file in Visual Studio 2022.
 
